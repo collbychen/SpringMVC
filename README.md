@@ -1,1 +1,3 @@
-关于springmvc注解开发和mvc原理
+# SpringMVC
+该项目是初步的通过Java反射对SpringMVC的DispatcherServlet里HandlerMapping的简单实现。
+和原版的功能相差甚远。

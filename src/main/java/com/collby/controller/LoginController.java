@@ -25,5 +25,6 @@ public class LoginController {
 
     @RequestMapping(value = "/logout")
     public void logout(){
+        System.out.println("登出了");
     }
 }
